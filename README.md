@@ -7,7 +7,8 @@
 -  Working with MySQL, PG
 -  Hands on Knowledge in Docker, AWS , Jenkins
 -  Knowledge of MongoDB, Elasticsearch
--  Sound Analytical approach
+-  Sound Analytical approach to resolve complex problems
+-  strong believer in continuous learning and improvement 
 
 <!---
 rajramk12/rajramk12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
