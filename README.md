@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ML/AI
 - 📫 How to reach me raj.ramk12@outlook.com
 -  Experienced in Ruby, jQuery, JavaScript, HTML5, CSS, Python
--  Working with MySQL, PG
+-  Working with Postgres, MySQL
 -  Hands on Knowledge in Docker, AWS , Jenkins
 -  Knowledge of MongoDB, Elasticsearch
 -  Sound Analytical approach to resolve complex problems
